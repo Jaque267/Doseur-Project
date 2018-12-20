@@ -1,0 +1,52 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+/*  min-height: 100vh;
+*/  padding: 0px 0px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+.toto {
+	height: 789px;
+	background-image: url("../images/verre_1 copie copie.jpg");
+	background-size: cover;
+	position:relative;
+}
+
+.button {
+	width: 300px;
+	height: 55px;
+	background-color: white;
+	opacity: 0.4;
+	border-radius: 28px;
+	color:black;
+	font-size: 8pt;
+	position:absolute;
+	bottom: 20px;
+	left: 57px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+}
+h1{text-align: center;
+	margin-top:7px;
+	font-size: 10px;
+	font-family: 'Montserrat', sans-serif;
+padding-right: 300px
+
+}
+
+h2 {
+    margin-top: -50;
+    margin-left: 230;
+    width: 100;
+    height: 100;
+    font-size: 35;
+}
